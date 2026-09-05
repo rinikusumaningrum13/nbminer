@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>NbMiner.Core</RootNamespace>
+    <AssemblyName>NbMiner.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
